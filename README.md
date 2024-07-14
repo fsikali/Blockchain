@@ -1,2 +1,32 @@
 # Blockchain
-Understanding Blockchain
+_In this README.md file I will be explaining in detail about blockchain technology._
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
