@@ -25,7 +25,9 @@ A _blockchain_ is a decentralized, distributed and public digital ledger that is
 * Different layers of blockchain e.g NEAR  
 * Understanding tokens  
 * Understanding Use cases  
-* Check an example from scratch of a sample blockchain project 
+* Check an example from scratch of a sample blockchain project  
+ 
+ 
 
 
 
